@@ -1,3 +1,4 @@
 export CLUSTER=
+export SERVICE=
 export SUBNET_ID=
 export SECURITY_GROUP_ID=
